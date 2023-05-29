@@ -42,7 +42,7 @@ var pCoupe = ["80","140","400","180"];
 var pSUV = ["140","200","800","250"];
 var pCaravan = ["220","280","1000","400"];
 var pTruck = ["130","180","800","280"];
-var pTruckL = ["170","220","1000","280"];
+var pTruckL = ["160","220","1000","280"];
 
 var curItem;
 var selectedCarType;
