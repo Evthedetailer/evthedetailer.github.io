@@ -38,11 +38,11 @@ var carTypes = [vSedan,vCoupe,vSUV,vCaravan,vTruck,vTruckLarge];
 var carSelection = ["sedan","coupe","suv","caravan","truck","truckL"];
 //-----------basic-vip-showroom-machine
 var pSedan = ["80","180","600","180"];
-var pCoupe = ["80","140","400","400"];
+var pCoupe = ["80","140","400","180"];
 var pSUV = ["140","200","800","250"];
 var pCaravan = ["220","280","1000","400"];
 var pTruck = ["130","200","800","280"];
-var pTruckL = ["200","280","1000",pTruck[3]];
+var pTruckL = ["200","280","1000","280"];
 
 var curItem;
 var selectedCarType;
