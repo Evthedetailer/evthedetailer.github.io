@@ -37,12 +37,12 @@ var distFee = ["10","15","25","50","<b>Contact us.</b>"];
 var carTypes = [vSedan,vCoupe,vSUV,vCaravan,vTruck,vTruckLarge];
 var carSelection = ["sedan","coupe","suv","caravan","truck","truckL"];
 //-----------basic-vip-showroom-machine
-var pSedan = ["80","180","600","180"];
-var pCoupe = ["80","140","400","180"];
-var pSUV = ["140","200","800","250"];
-var pCaravan = ["220","280","1000","400"];
-var pTruck = ["130","180","800","280"];
-var pTruckL = ["160","220","1000","280"];
+var pSedan = ["120","220","600","240"];
+var pCoupe = ["80","200","500","240"];
+var pSUV = ["180","240","800","300"];
+var pCaravan = ["260","320","1000","450"];
+var pTruck = ["170","230","800","340"];
+var pTruckL = ["200","260","1000","440"];
 
 var curItem;
 var selectedCarType;
