@@ -39,10 +39,10 @@ var carSelection = ["sedan","coupe","suv","caravan","truck","truckL"];
 //-----------basic-vip-showroom-machine
 var pSedan = ["120","220","600","240"];
 var pCoupe = ["80","200","500","240"];
-var pSUV = ["180","240","800","300"];
+var pSUV = ["160","240","800","300"];
 var pCaravan = ["260","320","1000","450"];
 var pTruck = ["170","230","800","340"];
-var pTruckL = ["200","260","1000","440"];
+var pTruckL = ["180","260","1000","440"];
 
 var curItem;
 var selectedCarType;
